@@ -10,7 +10,7 @@ const songs = [
   { title: "BULLY (feat. CeeLo Green)", src: "music/BULLY (feat. CeeLo Green).mp3" },
 
   { title: "HIGHS AND LOWS", src: "music/HIGHS AND LOWS.mp3" },
-  { title: "I CAN'T WAIT (feat. Ms. Lauryn Hill)", src: "music/I CAN'T WAIT (feat. Ms Lauryn Hill).mp3" },
+  { title: "I CAN'T WAIT (feat. Ms. Lauryn Hill)", src: "music/I CAN'T WAIT (feat. Ms. Lauryn Hill).mp3" },
   { title: "WHITE LINES (feat. Andre Troutman)", src: "music/WHITE LINES (feat. Andre Troutman).mp3" },
   { title: "CIRCLES", src: "music/CIRCLES.mp3" },
   { title: "PREACHER MAN", src: "music/PREACHER MAN.mp3" },
