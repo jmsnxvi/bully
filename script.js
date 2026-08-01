@@ -1,23 +1,25 @@
 const songs = [
-  { title: "KING", src: "music/KING_spotdown.org.mp3" },
-  { title: "THIS A MUST", src: "music/THIS A MUST_spotdown.org.mp3" },
-  { title: "FATHER (feat. Travis Scott)", src: "music/FATHER (feat. Travis Scott)_spotdown.org.mp3" },
-  { title: "ALL THE LOVE (feat. Andre Troutman)", src: "music/ALL THE LOVE (feat. Andre Troutman)_spotdown.org.mp3" },
-  { title: "PUNCH DRUNK", src: "music/PUNCH DRUNK_spotdown.org.mp3" },
-  { title: "WHATEVER WORKS", src: "music/WHATEVER WORKS_spotdown.org.mp3" },
-  { title: "MAMA'S FAVORITE", src: "music/MAMA’S FAVORITE_spotdown.org.mp3" },
-  { title: "SISTERS AND BROTHERS", src: "music/SISTERS AND BROTHERS_spotdown.org.mp3" },
-  { title: "BULLY (feat. CeeLo Green)", src: "music/BULLY (feat. CeeLo Green)_spotdown.org.mp3" },
+  { title: "KING", src: "music/KING.mp3" },
+  { title: "THIS A MUST", src: "music/THIS A MUST.mp3" },
+  { title: "FATHER (feat. Travis Scott)", src: "music/FATHER (feat. Travis Scott).mp3" },
+  { title: "ALL THE LOVE (feat. Andre Troutman)", src: "music/ALL THE LOVE (feat. Andre Troutman).mp3" },
+  { title: "PUNCH DRUNK", src: "music/PUNCH DRUNK.mp3" },
+  { title: "WHATEVER WORKS", src: "music/WHATEVER WORKS.mp3" },
+  { title: "MAMA'S FAVORITE", src: "music/MAMA'S FAVORITE.mp3" },
+  { title: "SISTERS AND BROTHERS", src: "music/SISTERS AND BROTHERS.mp3" },
+  { title: "BULLY (feat. CeeLo Green)", src: "music/BULLY (feat. CeeLo Green).mp3" },
 
-  { title: "HIGHS AND LOWS", src: "music/HIGHS AND LOWS_spotdown.org.mp3" },
-  { title: "I CAN'T WAIT", src: "music/I CAN’T WAIT_spotdown.org.mp3" },
-  { title: "WHITE LINES (feat. Andre Troutman)", src: "music/WHITE LINES (feat. Andre Troutman)_spotdown.org.mp3" },
+  { title: "HIGHS AND LOWS", src: "music/HIGHS AND LOWS.mp3" },
+  { title: "I CAN'T WAIT (feat. Ms Lauryn Hill)", src: "music/I CAN'T WAIT (feat. Ms Lauryn Hill).mp3" },
+  { title: "WHITE LINES (feat. Andre Troutman)", src: "music/WHITE LINES (feat. Andre Troutman).mp3" },
   { title: "CIRCLES", src: "music/CIRCLES.mp3" },
   { title: "PREACHER MAN", src: "music/PREACHER MAN.mp3" },
   { title: "BEAUTY AND THE BEAST", src: "music/BEAUTY AND THE BEAST.mp3" },
   { title: "DAMN", src: "music/DAMN.mp3" },
-  { title: "LAST BREATH (feat. Peso Pluma)", src: "music/LAST BREATH (feat. Peso Pluma)_spotdown.org.mp3" },
-  { title: "THIS ONE HERE", src: "music/THIS ONE HERE_spotdown.org.mp3" }
+  { title: "LAST BREATH (feat. Peso Pluma)", src: "music/LAST BREATH (feat. Peso Pluma).mp3" },
+  { title: "THIS ONE HERE", src: "music/THIS ONE HERE.mp3" },
+  { title: "OK (feat. Don Toliver)", src: "music/OK (feat. Don Toliver).mp3" },
+  { title: "MISSION CONTROL (feat. The WRLDFMS Tony Williams)", src: "music/MISSION CONTROL (feat. The WRLDFMS Tony Williams).mp3" }
 ];
 
 let currentSong = 0;
